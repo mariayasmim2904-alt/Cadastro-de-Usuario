@@ -7,7 +7,6 @@ incluindo estruturação de páginas, estilização e manipulação de dados com
 
 ## Funcionalidades
 - Cadastro de usuários
-- Validação de campos
 - Interface simples e organizada
 - Listagem de usuários cadastrados
 - Manipulação do DOM
